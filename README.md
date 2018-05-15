@@ -28,4 +28,5 @@ Bitcoin Cash for WooCommerce is a Wordpress plugin that allows to accept Bitcoin
 ## Supporting us
 
 bitcoincash:qpe250qyqvmar4s0jjfrug7p6n2vk4hd0cfuwn7z2v
+
 bitcoin:17RN1vK6Bp55BMkSSJ9cm4BgQVbmCQEWRL
