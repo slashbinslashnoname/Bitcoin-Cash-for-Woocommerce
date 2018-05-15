@@ -2,11 +2,11 @@
 
 Derived from: Bitcoin Payments for WooCommerce (dead project)
 
-== Description ==
+## Description
 
 Bitcoin Cash for WooCommerce is a Wordpress plugin that allows to accept Bitcoin Cash on your Woocommerce websites. There is absolutely no middle men in this extension between your customer and your Bitcoin adresses. The only third-party services is there to ask the conversion price. It is not only a rebranding of a dead plugin. 
 
-= Benefits =
+## Benefits
 
 * Creates new addresses from you xpub key
 * Electron Cash wallet payment option completely removes dependency on any third party service and middlemen.
@@ -19,17 +19,12 @@ Bitcoin Cash for WooCommerce is a Wordpress plugin that allows to accept Bitcoin
 * Ability to set exchange rate calculation multiplier to compensate volatility.
 
 
-== Installation ==
+## Installation
 
 0. Install Electron Cash with an HD Wallet and get your Master Public Key
 1. Install "BitcoinCash for WooCommerce" in the Extension Page
 2. Activate and Configure. 
 
+## Donations 
 
-== Upgrade Notice ==
 
-soon
-
-== Frequently Asked Questions ==
-
-soon
