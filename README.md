@@ -2,6 +2,9 @@
 
 Derived from: Bitcoin Payments for WooCommerce (dead project)
 
+See [FPR-0066.md](FPR-0066.md) for more on how we can help achieve this project.
+
+
 ## Description
 
 Bitcoin Cash for WooCommerce is a Wordpress plugin that allows to accept Bitcoin Cash on your Woocommerce websites. There is absolutely no middle men in this extension between your customer and your Bitcoin adresses. The only third-party services is there to ask the conversion price. It is not only a rebranding of a dead plugin. 
